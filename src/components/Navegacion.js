@@ -6,7 +6,6 @@ import Forest3 from "../images/forest.jpg";
 import Jungle3 from "../images/jungle.jpg";
 import Lake3 from "../images/lake.jpg";
 import Milky3 from "../images/milky.jpg";
-import Lake from "./Lake";
 
 const Navegacion = () => {
   return (
